@@ -1,6 +1,6 @@
 # Telephone Number Validator
 
-This web application validates whether a given phone number meets the format for a valid US telephone number. It provides an interactive interface where users can enter a phone number and get immediate validation feedback.
+This web application validates whether a given phone number meets the format for a valid US telephone number. It provides an interactive interface where users can enter a phone number and get immediate validation feedback. [TRY NOW!](https://qyuzet.github.io/js-c-number-validator/)
 
 ## Features
 
@@ -10,7 +10,7 @@ This web application validates whether a given phone number meets the format for
 
 ## Demo
 
-A live demo can be found [here](https://yourusername.github.io/telephone-number-validator/).
+A live demo can be found [here](https://qyuzet.github.io/js-c-number-validator/).
 
 ## Getting Started
 
